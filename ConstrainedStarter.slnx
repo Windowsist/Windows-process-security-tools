@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="ConstrainedStarter/ConstrainedStarter.vcxproj" />
+  <Project Path="ConstrainedStarter/ConstrainedStarter.vcxproj" Id="2bb3f6a3-c289-4126-8f89-ad98dd218223" />
 </Solution>
