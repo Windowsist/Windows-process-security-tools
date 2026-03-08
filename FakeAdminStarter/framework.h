@@ -4,6 +4,7 @@
 // Windows 头文件
 #include <windows.h>
 #include <sddl.h>
+#include <shellapi.h>
 // C 运行时头文件
 #include <process.h>
-#include<stdlib.h>
+#include <stdlib.h>
